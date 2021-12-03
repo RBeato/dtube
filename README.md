@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/Platform-Ethereum-purple.svg" alt="platform">
 </div>
 
+
+Adapted from: https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon
+
 ### ➔ Technical Details
 **Languages:**
 ```Solidity, JavaScript, HTML5, CSS3```
